@@ -1,0 +1,15 @@
+
+.make-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.textify{
+    background: tomato;
+    color:ghostwhite;
+    font-weight: bold;
+    font-size: 40px;
+    font-family: monospace;
+    letter-spacing: 2px;
+}
